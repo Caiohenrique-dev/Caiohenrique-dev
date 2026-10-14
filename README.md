@@ -46,6 +46,6 @@ No meu portfólio você encontra outros trabalhos, incluindo sites profissionais
 
 Estou aberto a oportunidades na área de desenvolvimento de software, especialmente backend Python e desenvolvimento Full Stack.
 
-📧 **Email:** pereiradasilva131@hotmail.com
+ **Email:** pereiradasilva131@hotmail.com
 
-🌐 **Portfólio:** https://caiohenrique.pythonanywhere.com/
+**Portfólio:** https://caiohenrique.pythonanywhere.com/
